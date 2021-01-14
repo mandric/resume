@@ -1,1 +1,1 @@
-# resume
+See Makefile
