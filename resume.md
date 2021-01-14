@@ -2,7 +2,7 @@
 <style>
 body {
     font-family: BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-    font-size: 12px;
+    font-size: 13px;
     line-height: 1.5;
     word-wrap: break-word;
 }
@@ -23,19 +23,25 @@ h1 a {
 
 # Milan Andric [calm.salt1530@fastmail.com](mailto:calm.salt1530@fastmail.com)
 
-Personable developer who understands that productive teams are the key to
-success. Enjoys all parts of the creative process and interfacing with
-different parts of an organization. Strong foundation in async programming
-with JavaScript on the frontend and backend. Unix veteran that lives on the
-command line and is familiar with most hosting services and continuous
-integration environments. Strong practitioner of infrastructure as code.
-Flexible skill set and lifelong learner who enjoys tackling problems, whether
-low-level technical problems or high-level process issues. Loves the feeling
-of building a well-oiled machine.
+Seasoned web developer with wide breadth of experience and focus on quality.
+Understands how good teams are built and strives to create a culture to
+deliver great products; teaching makes you a better developer. Strong
+proponent of open and transparent communication and processes; mistakes are
+opportunities. Passion for learning about new technologies and processes to
+achieve scale in feature delivery. Loves the feeling of building a well-oiled
+machine.
 
 ## Experience
 
-**Senior Software Developer at Medic Mobile**
+**Senior Software Engineer at TruckStop**
+<span class="ar">Jul 2019 - Present</span>
+
+- Web components development with StencilJS and Angular
+- Lead developer on automated UI testing (E2E) with Cypress as part
+of continuous delivery
+- Lead contributor on Frontend and Mobile Handbook and Apache Cordova and Ionic Mobile Development Setup
+
+**Senior Software Engineer at Medic Mobile**
 <span class="ar">Apr 2011 - Sep 2017 (6 years, 6 months)</span>
 
 - Second member of engineering team, helped it grow from 1 to 7 people
@@ -79,7 +85,7 @@ journalism](https://multimedia.journalism.berkeley.edu/)
 - Co-founded a Chicago based web service to track news about elected representatives
 - Developed backend in Django and Postgres with GIS support for querying by location
 - Interviewed on Chicago Public Radio's @848 Feb 2009
-    
+
 **Web Developer at tradio21**
 <span class="ar">Apr 2005 - Jun 2005 (3 months)</span>
 
@@ -95,21 +101,24 @@ journalism](https://multimedia.journalism.berkeley.edu/)
 
 ## Consulting Work
 
-**Software Developer at Digital Democracy**
-<span class="ar">Nov 2018 - Present</span>
-
-- Android development and testing using React Native and Node.js for Mobile Apps
-
 **Software Developer at Open Markets Initiative**
-<span class="ar">Aug 2018 - Present</span>
+<span class="ar">Aug 2018 - Feb 2019</span>
 
 - Systems integration testing and devops on OMI high speed trading platform
+
+**Software Developer at Digital Democracy**
+<span class="ar">Nov 2018 - Jan 2019</span>
+
+- Android development and testing using React Native and Node.js for Mobile Apps
 
 **Software Developer at UrbanArray**
 <span class="ar">Apr 2018 - Dec 2018</span>
 - Blockchain development on UA time tracking platform with Ethereum and EOS
 
 ## Education
+
+**Amazon Web Services Training and Certification**
+- AWS Certified Cloud Practitioner, April 2020
 
 **FinChain, São Paulo Brazil**
 - Certificate on Blockchain Development, March 2018
