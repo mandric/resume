@@ -23,18 +23,19 @@ h1 a {
 
 # Milan Andric [calm.salt1530@fastmail.com](mailto:calm.salt1530@fastmail.com)
 
-Seasoned web developer with wide breadth of experience and focus on quality.
-Understands how good teams are built and strives to create a culture to
-deliver great products; teaching makes you a better developer. Strong
-proponent of open and transparent communication and processes; mistakes are
-opportunities. Passion for learning about new technologies and processes to
-achieve scale in feature delivery. Loves the feeling of building a well-oiled
-machine.
+Seasoned web developer with a wide breadth of experience and focus on quality.
+Strong foundation in async programming with Javascript/Typescript on the
+frontend and backend.  Understands how good teams are built and strives to
+create a culture to deliver great products; teaching makes you a better
+developer. Strong proponent of open and transparent communication and
+processes; mistakes are opportunities. Passion for learning about new
+technologies and processes to achieve scale in feature delivery. Loves the
+feeling of building a well-oiled machine.
 
 ## Experience
 
 **Senior Software Engineer at TruckStop**
-<span class="ar">Jul 2019 - Present</span>
+<span class="ar">Jul 2019 - Dec 2020 (1 year, 6 months)</span>
 
 - Web components development with StencilJS and Angular
 - Lead developer on automated UI testing (E2E) with Cypress as part
