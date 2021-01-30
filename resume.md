@@ -23,14 +23,14 @@ h1 a {
 
 # Milan Andric [calm.salt1530@fastmail.com](mailto:calm.salt1530@fastmail.com)
 
-Seasoned web developer with a wide breadth of experience and focus on quality.
+Senior web developer with a wide breadth of experience and focus on quality.
 Strong foundation in async programming with Javascript/Typescript on the
-frontend and backend.  Understands how good teams are built and strives to
-create a culture to deliver great products; teaching makes you a better
-developer. Strong proponent of open and transparent communication and
-processes; mistakes are opportunities. Passion for learning about new
-technologies and processes to achieve scale in feature delivery. Loves the
-feeling of building a well-oiled machine.
+frontend and backend.  Unix veteran that lives on the command line and is
+familiar with several hosting services and continuous integration environments.
+Strong practitioner of infrastructure as code.  Strong proponent of open and
+transparent communication and processes.  Looking for engineering centric teams
+that strive to achieve scale in quality feature delivery.  Passion for learning
+about new technologies and loves the feeling of building a well-oiled machine.
 
 ## Experience
 
@@ -39,7 +39,7 @@ feeling of building a well-oiled machine.
 
 - Web components development with StencilJS and Angular
 - Lead developer on automated UI testing (E2E) with Cypress as part
-of continuous delivery
+of continuous delivery on GitLab CI/CD
 - Lead contributor on Frontend and Mobile Handbook and Apache Cordova and Ionic Mobile Development Setup
 
 **Senior Software Engineer at Medic Mobile**
@@ -51,17 +51,18 @@ that supports 20,000 health workers providing care for 11 million people in
 the hardest-to-reach communities on the globe
 - Launched a project in Mali that treated 5,000 sick children within the
 first week of operations
-- Backend developer on distributed data architecture using Node.js and
-CouchDB to support offine scenarios, sync and various input types including
-SMS messages
+- Backend developer on distributed data architecture using Node.js, CouchDB and
+  Postgres to support offine scenarios, sync and various input types including
+  SMS messages
 - Android development on Ushahidi's SMSSync to support a custom message API
 - Developed ETL system using NDJSON streams to batch process millions of records
-- Automated maintenance and monitoring of hundreds of deployments on AWS
+- Automated AWS maintenance and monitoring of hundreds of deployments
+- Automated builds and deployments with TravisCI
 
 **Software Engineer at Analyte Health**
 <span class="ar">Jul 2010 - Apr 2011 (10 months)</span>
 
-- Django backend developer and Selenium based integration testing
+- Django/MySQL backend developer and Selenium based integration testing
 - Worked closely with marketing and design departments on [mobile
 diagnostic](https://www.stdtestexpress.com/) testing to increase conversion
 by 25% using AB testing tools and user experience testing
@@ -70,14 +71,14 @@ by 25% using AB testing tools and user experience testing
 <span class="ar">Aug 2009 - Jun 2010 (11 months)</span>
 
 - Maintained production infrastructure on AWS
-- Developed Django and Bash APIs to automate production deployment on AWS
+- Developed Django, MySQL and Bash APIs to automate production deployment on AWS
 
 **Programmer Analyst at UC Berkeley Graduate School of Journalism**
 <span class="ar">Feb 2006 - Aug 2009 (3 years, 7 months)</span>
 
 - Lead developer for one of the largest online resources for [multimedia
 journalism](https://multimedia.journalism.berkeley.edu/)
-- Led Django refactor and development team transition into MVC patterns
+- Led Django/MySQL refactor and development team transition into MVC patterns
 - Automated maintenance and support for hundreds of Wordpress blogs
 
 **Co-founder RepSheet**
@@ -86,12 +87,6 @@ journalism](https://multimedia.journalism.berkeley.edu/)
 - Co-founded a Chicago based web service to track news about elected representatives
 - Developed backend in Django and Postgres with GIS support for querying by location
 - Interviewed on Chicago Public Radio's @848 Feb 2009
-
-**Web Developer at tradio21**
-<span class="ar">Apr 2005 - Jun 2005 (3 months)</span>
-
-- The tradio21 project is an attempt to report on the complexities of human trafficking
-- Implemented Drupal theme, minor customizations and hosting at Bryght
 
 **Programmer Analyst at UC Berkeley EECS**
 <span class="ar">Feb 2001 - Feb 2006 (5 years, 1 month)</span>
@@ -105,12 +100,13 @@ journalism](https://multimedia.journalism.berkeley.edu/)
 **Software Developer at Open Markets Initiative**
 <span class="ar">Aug 2018 - Feb 2019</span>
 
-- Systems integration testing and devops on OMI high speed trading platform
+- Systems integration testing with CircleCI CI/CD on OMI high speed trading platform
 
 **Software Developer at Digital Democracy**
 <span class="ar">Nov 2018 - Jan 2019</span>
 
 - Android development and testing using React Native and Node.js for Mobile Apps
+- APK development builds and publishing with CircleCI
 
 **Software Developer at UrbanArray**
 <span class="ar">Apr 2018 - Dec 2018</span>
@@ -132,4 +128,3 @@ Native English, Fluent Serbian and Portuguese, Conversational Spanish
 
 ## Personal Interests
 Soccer, Basketball, Swimming, Hiking, Cooking
-  
