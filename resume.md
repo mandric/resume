@@ -124,7 +124,7 @@ journalism](https://multimedia.journalism.berkeley.edu/)
 - BA Art History, Art, Multimedia, Computer Science, 1993 – 1999
 
 ## Languages
-Native English, Fluent Serbian and Portuguese, Conversational Spanish
+Native English, Fluent Serbian, Conversational Portuguese
 
 ## Personal Interests
 Soccer, Basketball, Swimming, Hiking, Cooking
