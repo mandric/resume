@@ -7,7 +7,7 @@ TAG = $(shell git symbolic-ref -q --short HEAD || git describe --tags --exact-ma
 .PHONY: publish unpublish deps clean
 
 $(DIST)/resume.pdf: $(DIST)/resume.html
-	puppeteer print $(DIST)/resume.html $(DIST)/resume.pdf
+	wkhtmltopdf $(DIST)/resume.html $(DIST)/resume.pdf
 
 $(DIST)/resume.html: resume.md
 	mkdir -p dist
@@ -26,7 +26,8 @@ unpublish:
 deps:
 	# markdown-it https://github.com/markdown-it/markdown-it
 	# puppeteer-cli https://github.com/JarvusInnovations/puppeteer-cli
-	npm install -g markdown-it puppeteer-cli
+	npm install -g markdown-it
+	brew install wkhtmltopdf
 
 clean:
 	rm -rf $(DIST)
