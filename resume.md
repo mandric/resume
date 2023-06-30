@@ -2,7 +2,7 @@
 <style>
 body {
     font-family: BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1.5;
     word-wrap: break-word;
 }
@@ -27,12 +27,18 @@ Senior web developer with a wide breadth of experience and focus on quality.
 Strong foundation in async programming with Javascript/Typescript on the
 frontend and backend.  Unix veteran that lives on the command line and is
 familiar with several hosting services and continuous integration environments.
-Strong practitioner of infrastructure as code.  Strong proponent of open and
-transparent communication and processes.  Looking for engineering centric teams
-that strive to achieve scale in quality feature delivery.  Passion for learning
-about new technologies and loves the feeling of building a well-oiled machine.
+Strong practitioner of infrastructure as interface.  Strong proponent of open
+and transparent communication and processes.  Looking for engineering centric
+teams that strive to achieve scale in quality feature delivery.  Passion for
+learning about new technologies and loves the feeling of building a well-oiled
+machine.
 
 ## Experience
+
+**Cloud App Developer at Siemens**
+<span class="ar">Mar 2021 - Present</span>
+
+- Full stack developer in the Building Products division working on frontend and backend solutions
 
 **Senior Software Engineer at TruckStop**
 <span class="ar">Jul 2019 - Dec 2020 (1 year, 6 months)</span>
