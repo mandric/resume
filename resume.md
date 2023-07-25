@@ -38,28 +38,37 @@ machine.
 **Cloud App Developer at Siemens**
 <span class="ar">Mar 2021 - Present</span>
 
-- Full stack developer in the Building Products division working on frontend and backend solutions
+- Application Developer on the [BuildingX Cloud Platform](https://www.siemens.com/global/en/products/buildings/building-x.html),
+  using mainly Angular/TypeScript on the frontend and GoLang on the backend
+  with AWS infrastructure managed in Terraform
 
 **Senior Software Engineer at TruckStop**
 <span class="ar">Jul 2019 - Dec 2020 (1 year, 6 months)</span>
 
-- Web components development with StencilJS and Angular
+- Web components development with StencilJS and Angular/Typescript
 - Lead developer on automated UI testing (E2E) with Cypress as part
 of continuous delivery on GitLab CI/CD
 - Lead contributor on Frontend and Mobile Handbook and Apache Cordova and Ionic Mobile Development Setup
+
+**Independent Consultant**
+<span class="ar">Apr 2018 - Feb 2019 (11 months)</span>
+
+- Open Markets Initiative; built systems integration testing with CircleCI CI/CD on OMI high speed trading platform
+- Digital Democracy; Android development and testing using React Native and Node.js for Mobile Apps; APK development builds and publishing with CircleCI
+- UrbanArray; Blockchain development on UA time tracking platform with Ethereum and EOS
 
 **Senior Software Engineer at Medic Mobile**
 <span class="ar">Apr 2011 - Sep 2017 (6 years, 6 months)</span>
 
 - Second member of engineering team, helped it grow from 1 to 7 people
-- Core developer on open-source [software platform](https://github.com/medic)
+- Core developer on [open-source software platform](https://github.com/medic)
 that supports 20,000 health workers providing care for 11 million people in
 the hardest-to-reach communities on the globe
 - Launched a project in Mali that treated 5,000 sick children within the
 first week of operations
-- Backend developer on distributed data architecture using Node.js, CouchDB and
-  Postgres to support offine scenarios, sync and various input types including
-  SMS messages
+- Backend developer on distributed data architecture using Node.js, Typescript,
+  CouchDB and Postgres to support offine scenarios, sync and various input
+  types including SMS messages
 - Android development on Ushahidi's SMSSync to support a custom message API
 - Developed ETL system using NDJSON streams to batch process millions of records
 - Automated AWS maintenance and monitoring of hundreds of deployments
@@ -100,23 +109,6 @@ journalism](https://multimedia.journalism.berkeley.edu/)
 - System administration for Electrical Engineering and Computer Science Department
 - Developed Perl and Java based CMS for [EECS Helpdesk Website](https://iris.eecs.berkeley.edu/)
 - Maintained Apache web servers, Oracle and MySQL databases running on Solaris
-
-## Consulting Work
-
-**Software Developer at Open Markets Initiative**
-<span class="ar">Aug 2018 - Feb 2019</span>
-
-- Systems integration testing with CircleCI CI/CD on OMI high speed trading platform
-
-**Software Developer at Digital Democracy**
-<span class="ar">Nov 2018 - Jan 2019</span>
-
-- Android development and testing using React Native and Node.js for Mobile Apps
-- APK development builds and publishing with CircleCI
-
-**Software Developer at UrbanArray**
-<span class="ar">Apr 2018 - Dec 2018</span>
-- Blockchain development on UA time tracking platform with Ethereum and EOS
 
 ## Education
 
